@@ -20,7 +20,9 @@ The key role of image segmentation is to remove the objects segmented from the i
 **2) Masking with Threshold** 
 In this process I am doing using threshold to create mask and then background is chaged according to requirement.
 
+### Expected Output
 ![view_Output_Expected](https://user-images.githubusercontent.com/79663448/131219076-9b17f4ed-13e5-42df-a946-9dd318cdea81.jpeg)
+### Input
 ![view1](https://user-images.githubusercontent.com/79663448/131219079-340db05e-eea7-43f4-8dd8-274779bf1e75.jpeg)
 
 Author:
