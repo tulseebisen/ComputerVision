@@ -1,3 +1,5 @@
+![view_Output_Expected](https://user-images.githubusercontent.com/79663448/131219076-9b17f4ed-13e5-42df-a946-9dd318cdea81.jpeg)
+![view1](https://user-images.githubusercontent.com/79663448/131219079-340db05e-eea7-43f4-8dd8-274779bf1e75.jpeg)
 # ComputerVision
 
 ## Image Background Removal
